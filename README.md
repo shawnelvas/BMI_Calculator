@@ -1,4 +1,4 @@
-#**_ BMI Calculator_**
+**_ #BMI Calculator_**
 
 a program that interprets the Body Mass Index (BMI) based on a user's weight and height.
 It should tell them the interpretation of their BMI based on the BMI value.
@@ -11,3 +11,4 @@ It should tell them the interpretation of their BMI based on the BMI value.
   ![BMI Chart.](https://www.healthequalsfreedom.com/wp-content/uploads/2019/03/BMI-Chart.gif)
 
 ### The BMI is calculated by dividing a person's weight (in kg) by the square of their height (in m)
+![BMI Formula](https://www.thecalculatorsite.com/images/health/bmi-formula.png?ezimgfmt=ng%3Awebp%2Fngcb28%2Frs%3Adevice%2Frscb28-1)
