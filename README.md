@@ -8,4 +8,6 @@ It should tell them the interpretation of their BMI based on the BMI value.
 *	Equal to or over 30 but below 35 they are obese
 *	Equal to or over 35 they are clinically obese.
 
-###The BMI is calculated by dividing a person's weight (in kg) by the square of their height (in m):
+  ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.healthequalsfreedom.com%2Fbody%2Fbody-mass-index-calculator%2F&psig=AOvVaw0JERSft5DaR_LUeDweTGmI&ust=1705556470647000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCMDkl47b44MDFQAAAAAdAAAAABAE)
+
+###The BMI is calculated by dividing a person's weight (in kg) by the square of their height (in m)
